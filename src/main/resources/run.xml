@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="Regression for RStudio" verbose="3">
+<suite name="Stock Checker" verbose="3">
 
     <!-- UI Checkin' -->
     <test name="Regression Tests" parallel="methods" thread-count="15">
